@@ -1,7 +1,0 @@
-﻿  CMenu.cpp
-  CMenuItem.cpp
-  main.cpp
-  Hotel.cpp
-C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\LR1\OznakomV2\Hotel.cpp(130,50): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  Создание кода...
-  OznakomV2.vcxproj -> C:\Users\stass\OneDrive\Рабочий стол\учеба\УЧЕБА 2ой семестр\ВП\LR1\OznakomV2\x64\Debug\OznakomV2.exe
